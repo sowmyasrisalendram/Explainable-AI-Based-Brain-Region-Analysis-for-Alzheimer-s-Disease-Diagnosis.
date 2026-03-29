@@ -1,8 +1,11 @@
 streamlit
-tensorflow
+tensorflow-cpu==2.13.0
 numpy
-pillow
-opencv-python
-scikit-learn
-shap
+opencv-python-headless
+Pillow
 matplotlib
+seaborn
+scikit-learn
+reportlab
+pytz
+shap
